@@ -67,6 +67,6 @@ Built LLM-powered metadata pipelines, containerized production deployments via D
 
 ## 📬 Let's Connect
 
-I'm actively looking for **Data Science and ML internship opportunities for Summer 2026**. If you're working on something interesting in healthcare analytics, LLM applications, or production ML systems — let's talk.
+I'm actively looking for **Data Science, ML, and Data Engineering internship opportunities for Summer 2026**. If you're working on something interesting in healthcare analytics, LLM applications, production ML systems, or data infrastructure — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/chushmithabattula)
