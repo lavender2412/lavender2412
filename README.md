@@ -54,7 +54,7 @@ Dual-module real-time surveillance system combining a spatiotemporal autoencoder
 
 **M.S. Data Science** — University of Colorado Boulder *(2025 – 2027)* | GPA: 3.7/4.0
 
-**B.Tech Computer Science** — VNR Vignana Jyothi Institute of Engineering and Technology *(2023)*
+**B.Tech Computer Science**, *(2023)*
 
 ---
 
