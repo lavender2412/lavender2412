@@ -1,6 +1,6 @@
 # Hi, I'm Chushmitha Battula 👋
 
-**Graduate Student in Data Science @ CU Boulder** | **Former Junior Data Engineer @ Advance Auto Parts**
+**Graduate Student in Data Science @ CU Boulder** | **Former Data Engineer @ Advance Auto Parts**
 
 I build production-grade ML pipelines, LLM-powered data products, and end-to-end analytics systems. My work sits at the intersection of data engineering and applied machine learning — from containerized deployments on AWS to NLP pipelines for healthcare analytics.
 
@@ -60,7 +60,7 @@ Dual-module real-time surveillance system combining a spatiotemporal autoencoder
 
 ## 💼 Experience
 
-**Junior Data Engineer** — Advance Auto Parts *(2023 – 2025)*
+** Data Engineer** — Advance Auto Parts *(2023 – 2025)*
 Built LLM-powered metadata pipelines, containerized production deployments via Docker, custom AWS Glue connectors, Power BI analytics dashboards, and end-to-end CI/CD infrastructure using Jenkins and Terraform.
 
 ---
