@@ -1,6 +1,6 @@
 # Hi, I'm Chushmitha Battula 👋
 
-**Graduate Student in Data Science @ CU Boulder** | **Former Data Engineer @ Advance Auto Parts**
+**Data Engineering & Analytics Intern @ Solidigm** | **Graduate Student in Data Science @ CU Boulder** | **Former Data Engineer @ Advance Auto Parts**
 
 I build production-grade ML pipelines, LLM-powered data products, and end-to-end analytics systems. My work sits at the intersection of data engineering and applied machine learning — from containerized deployments on AWS to NLP pipelines for healthcare analytics.
 
@@ -29,11 +29,16 @@ I build production-grade ML pipelines, LLM-powered data products, and end-to-end
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 **DevOps**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-FF4F8B?logo=amazonaws&logoColor=white)
 
 ---
 
@@ -52,21 +57,22 @@ Dual-module real-time surveillance system combining a spatiotemporal autoencoder
 
 ## 🎓 Education
 
-**M.S. Data Science** — University of Colorado Boulder *(2025 – 2027)* | GPA: 3.7/4.0
-
-**B.Tech Computer Science**, *(2023)*
+**M.S. Data Science** — University of Colorado Boulder *(2025 – 2027)* | GPA: 3.73/4.0
 
 ---
 
 ## 💼 Experience
 
-** Data Engineer** — Advance Auto Parts *(2023 – 2025)*
+**Data Engineering and Analytics Graduate Intern** — Solidigm *(2026 – Present)*
+Building a Talent Acquisition data pipeline and Power BI dashboard on the Talent Acquisition team. Working across Snowflake and Fivetran to map SmartRecruiters, Workday, Jira, and ServiceNow source integrations, writing SQL with window functions for deduplication, and developing a TA data dictionary and conceptual data model.
+
+**Data Engineer** — Advance Auto Parts *(2023 – 2025)*
 Built LLM-powered metadata pipelines, containerized production deployments via Docker, custom AWS Glue connectors, Power BI analytics dashboards, and end-to-end CI/CD infrastructure using Jenkins and Terraform.
 
 ---
 
 ## 📬 Let's Connect
 
-I'm actively looking for **Data Science, ML, and Data Engineering internship opportunities for Summer 2026**. If you're working on something interesting in healthcare analytics, LLM applications, production ML systems, or data infrastructure — let's talk.
+I'm actively exploring **Data Science, ML, and Data Engineering full-time opportunities for 2027**. If you're working on something interesting in healthcare analytics, LLM applications, production ML systems, or data infrastructure — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/chushmithabattula)
