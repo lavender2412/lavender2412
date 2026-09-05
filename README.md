@@ -57,13 +57,13 @@ Dual-module real-time surveillance system combining a spatiotemporal autoencoder
 
 ## 🎓 Education
 
-**M.S. Data Science** — University of Colorado Boulder *(2025 – 2027)* | GPA: 3.73/4.0
+**M.S. Data Science** — University of Colorado Boulder *(2025 – 2027)* | GPA: 3.6/4.0
 
 ---
 
 ## 💼 Experience
 
-**Data Engineering and Analytics Graduate Intern** — Solidigm *(2026 – Present)*
+**Data Engineering and Analytics Graduate Intern** — Solidigm *(May 2026 – Aug 2026)*
 Building a Talent Acquisition data pipeline and Power BI dashboard on the Talent Acquisition team. Working across Snowflake and Fivetran to map SmartRecruiters, Workday, Jira, and ServiceNow source integrations, writing SQL with window functions for deduplication, and developing a TA data dictionary and conceptual data model.
 
 **Data Engineer** — Advance Auto Parts *(2023 – 2025)*
